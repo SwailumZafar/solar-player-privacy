@@ -7,3 +7,5 @@ Policy: https://swailumzafar.github.io/solar-player-privacy/
 Support and privacy enquiries: https://github.com/SwailumZafar/solar-player-privacy/issues/new
 
 Issues are public. Do not post personal files, contact details, identifiers or vault credentials. Use the developer contact email on the app's Play listing for confidential matters.
+
+Publisher: Elements Studio11. Private support/privacy email: tzbangash@yahoo.com.
