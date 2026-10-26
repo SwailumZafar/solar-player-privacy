@@ -1,5 +1,5 @@
 Solar Player Privacy Policy
-Effective date: 26 October 2026
+Effective date: 27 October 2026
 Applies to Solar Player, Android package com.solarplayer.app.v01.
 
 1. Who provides this app and how to contact us
@@ -26,7 +26,8 @@ Vault files are encrypted locally using authenticated AES-GCM encryption. Vault 
 Local history, preferences, playlists, transfer records and vault files remain until removed through the relevant app controls, Android Clear storage, or uninstallation. History can be cleared in the app. Android manages trashed public media and its retention. Clearing a transfer history does not delete received public files. Public originals, restored files and files saved to shared storage can remain after uninstallation; delete those separately in your file manager or gallery. Copies held by recipients are controlled by those recipients. Temporary caches are subject to app cleanup and Android storage management. For data handled by Google or GitHub, use that provider's controls or contact mechanisms. Solar Player has no server account to delete and cannot remotely erase files it does not possess.
 
 8. Children and other services
-Solar Player is a general-purpose media utility and is not designed specifically for children. It provides no content catalogue, social feed, advertising or in-app purchasing. Parents and guardians should supervise the media and files children access or share. Google Play services, Android system components and websites you independently open have their own privacy practices.
+Solar Player is a general-purpose media utility intended for ages 13 and older. It provides no content catalogue, social feed, advertising or in-app purchasing. Parents and guardians should supervise the media and files young people access or share. Google Play services, Android system components and websites you independently open have their own privacy practices.
+From version 1.6.5.44, installations managed by Google Play request Play Age Signals for age-appropriate access and regional legal compliance. Google Play applies its regional age-sharing and verification rules and may show its own sharing interface. Solar Player uses available age ranges on this device: a confirmed range below 13 or a mandatory verification requirement restricts access. Only the restriction decision is stored locally across restarts; a failed or missing response does not clear an existing restriction. Raw age ranges, installation identifiers and approval dates are not stored or logged by Solar Player, transmitted to the developer, or used for advertising, marketing, profiling or analytics. Solar Player does not independently collect dates of birth or identity documents. Google's Age Signals client-library disclosure states that it collects no data; Google Play operates its own processes under Google's terms. See https://developer.android.com/google/play/age-signals/overview. Installations not managed by Google Play do not call this API.
 
 9. Changes
 Updates to this policy will be dated and provided in the app and on its public privacy-policy page. A change in features or third-party services can require updated disclosures.
